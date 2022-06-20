@@ -1,7 +1,15 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import ProductItem from "./ProductItem";
 
 const Products = () => {
-  return <div>{/* CODE HERE */}</div>;
+  
+
+  return(
+    <>
+      <ProductItem />
+    </>
+  )
+  
 };
 
 export default Products;

@@ -1,0 +1,19 @@
+{
+  "products":[
+      {   "id":1,
+          "name": "Product1",
+          "description" :"This is Product 1 in list"
+
+      },
+      {   "id":2,
+          "name": "Product2",
+          "description" :"This is Product 2 in list"
+
+      },
+      {   "id":3,
+          "name": "Product3",
+          "description" :"This is Product 3 in list"
+
+      }
+  ]
+}
