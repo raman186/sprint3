@@ -6,7 +6,7 @@ const Products = () => {
 
   return(
     <>
-      <ProductItem />
+      {/* <ProductItem /> */}
     </>
   )
   
